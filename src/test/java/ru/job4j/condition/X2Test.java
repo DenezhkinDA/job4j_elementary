@@ -49,3 +49,4 @@ public class X2Test {
         Assert.assertEquals(expected, rsl);
     }
 }
+
