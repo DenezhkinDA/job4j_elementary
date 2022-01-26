@@ -21,3 +21,4 @@ public class FitTest {
         Assert.assertEquals(expected, out, 0.01);
     }
 }
+
