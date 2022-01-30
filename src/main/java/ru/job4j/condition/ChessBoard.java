@@ -17,6 +17,6 @@ public class ChessBoard {
     }
 
     public static void main(String[] args) {
-        System.out.println(way(6, 3, 4, 1));
+        System.out.println(way(6, 3, 3, 0));
     }
 }
