@@ -24,8 +24,8 @@ public class Converter {
         float inD = 600;
         float expectedD = 10;
         float outD = Converter.rubleToDollar(inD);
-        boolean passedD = expectedD == out;
-        System.out.println("600 rubles are 10 Dollars. Test results : " + passed);
+        boolean passedD = expectedD == outD;
+        System.out.println("600 rubles are 10 Dollars. Test results : " + passedD);
         }
     }
 
